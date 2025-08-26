@@ -1,5 +1,5 @@
-def print (nome: 
+def sla (nome, idade): 
+  print ('Olá', nome)
+  print ('Você tem', idade, 'anos')
 
-def print (idade: )
-
-return (nome,idade)
+sla ('Deyvid', 16)
